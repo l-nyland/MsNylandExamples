@@ -1,0 +1,11 @@
+h {
+    color: rgb(0, 255, 115);
+    background-color: rgb(24, 24, 22);
+    border: 1px solid black;
+}
+
+p {
+    background-color: rgb(220, 255, 224);
+    color:red;
+}
+
